@@ -3,8 +3,9 @@
 }
 
 .date {
-  text-transform: cursive;
+  font-family: cursive;
   float: right;
+  font-variant: small-caps;
 }
 
 .shadow {
