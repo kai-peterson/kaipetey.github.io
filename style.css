@@ -1,3 +1,8 @@
 .header {
   text-align: center;
 }
+
+.dates {
+  text-transform: capitalize;
+  float: right;
+}
