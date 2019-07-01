@@ -24,3 +24,7 @@
 h1 {
 	text-shadow: 0 0 12px black;
 }
+
+h2.education {
+	text-shadow: 0 0 6px black;
+}
