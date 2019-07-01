@@ -1,3 +1,16 @@
+.container {
+  margin-top: 15px;
+	margin-left: 150px;
+	margin-right: 150px;
+
+	padding: 10px 150px 10px 150px;
+
+	border-radius: 10px;
+	background-color: #C4CECD;
+
+	text-align: left;
+}
+
 .header {
   text-align: center;
 }
