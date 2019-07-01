@@ -6,3 +6,7 @@
   text-transform: cursive;
   float: right;
 }
+
+.title {
+  text-shadow: 1px 1px 2px red, 0 0 12px blue;
+}
