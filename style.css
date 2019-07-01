@@ -3,6 +3,6 @@
 }
 
 .date {
-  text-transform: capitalize;
+  text-transform: uppercase;
   float: right;
 }
