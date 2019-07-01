@@ -25,9 +25,6 @@ h1 {
 	text-shadow: 0 0 12px black;
 }
 
-.education h2,
-.employment h2,
-.extra-curricular h2,
-.skills h2, {
+.education h2, .employment h2, .extra-curricular h2, .skills h2, {
 	text-shadow: 0 0 4px gray;
 }
