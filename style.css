@@ -1,5 +1,5 @@
 .container {
-  margin-top: 15px;
+	margin-top: 15px;
 	margin-left: 150px;
 	margin-right: 150px;
 
@@ -12,15 +12,15 @@
 }
 
 .header {
-  text-align: center;
+	text-align: center;
 }
 
-.date {
-  font-syle: italic;
-  float: right;
-  font-variant: small-caps;
+.date-range {
+	font-syle: italic;
+	float: right;
+	font-variant: small-caps;
 }
 
 .shadow {
-  text-shadow: 1px 1px 2px red, 0 0 12px blue;
+	text-shadow: 1px 1px 2px red, 0 0 12px blue;
 }
