@@ -6,7 +6,7 @@
 	padding: 10px 150px 10px 150px;
 
 	border-radius: 10px;
-	background-color: DarkTurquoise;
+	background-color: LightCyan;
 
 	text-align: left;
 }
@@ -22,5 +22,5 @@
 }
 
 .shadow {
-	text-shadow: 1px 1px 2px SteelBlue, 0 0 12px black;
+	text-shadow: 1px 1px 2px DarkTurquoise, 0 0 12px black;
 }
